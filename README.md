@@ -1,2 +1,7 @@
-# demo-estudio-juridico-dra-laura-d-onofrio
-Demo web para Estudio Jurídico Dra. Laura D'Onofrio — diseñada por eterlab.
+# Estudio Jurídico Dra. Laura D'Onofrio
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
